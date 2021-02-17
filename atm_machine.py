@@ -10,3 +10,6 @@ if deposit == 1
     print("please insert check or money now")
 elif deposit == 2
     print("please insert cheque or cash")
+
+elif choice == 2
+    str withdrawal = input ("Press 1 to draw funds from Current Account")
