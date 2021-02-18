@@ -13,3 +13,8 @@ elif deposit == 2
 
 elif choice == 2
     str withdrawal = input ("Press 1 to draw funds from Current Account")
+    if withdrawal = 1
+    input("how much would you like to withdraw ?")
+    print ("Please accept cash from the slot below")
+    input ("How much would you like to withdraw ?")
+    elif print("Please remove cash fro the slot ")
